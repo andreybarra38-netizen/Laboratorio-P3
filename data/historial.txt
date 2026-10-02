@@ -1,0 +1,6 @@
+2026-10-01T21:07:19 Creados turnos 1, 2, 3
+2026-10-01T21:07:19 Llamado turno 1
+2026-10-01T21:07:19 Atendido turno 1
+2026-10-01T21:23:58 Creados turnos 4, 5, 6
+2026-10-01T21:23:58 Llamado turno 2
+2026-10-01T21:23:58 Atendido turno 2
